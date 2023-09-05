@@ -1,7 +1,7 @@
 # BME_Masters
 All code scripts used in this project can be found in this repositry 
 
-Files can be understood as they chronologically used in this project 
+Files can be understood as they were chronologically used in this project 
 
 #1 Light Detection System C Code 
 Refers to the Arduino script used to operate the sensors - Algorithm 1
