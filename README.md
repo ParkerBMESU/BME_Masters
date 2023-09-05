@@ -18,6 +18,6 @@ Refers to the code used to generate SSIM curves for the comparison of annotated 
 #5 Lightness measurements
 Generation of lightness boxplots that compare lightness of treated plates to the control plate
 
-#6 Multi Class Image Classification Model
-The code used to generate 2 classification models. Namely `model_treated_10epochs.h5` and `model_extent_10epochs.h5`
+#6 Multi Class Image Classification Model 
+The code used to generate 2 classification models. Namely `model_treated_10epochs.h5` and `model_extent_10epochs.h5` - Algorithm 4
 
