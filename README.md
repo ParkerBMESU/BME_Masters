@@ -22,3 +22,5 @@ Generation of lightness boxplots that compare lightness of treated plates to the
 The code used to generate 2 classification models. Namely `model_treated_10epochs.h5` and `model_extent_10epochs.h5` - Algorithm 4
 
 Image files are too many to upload to GitHub. All images and supporting files can be found here: https://stellenbosch-my.sharepoint.com/:f:/g/personal/20671350_sun_ac_za/EqKjfRko9C5GiIo24k7IzQ4BVhDBTehVGDNjwUYhFqIzbw?e=jEbRyS
+
+Alternatively, files can be found here: https://drive.google.com/drive/folders/1BcdSGLgy64bgtNOFCpbbgG0IqeIixpMq?usp=sharing
